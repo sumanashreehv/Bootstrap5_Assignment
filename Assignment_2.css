@@ -1,0 +1,14 @@
+.my-container{
+    text-align:center;
+    text-align:justify;
+}
+
+h1{
+    font-style: bold;
+    text-align: center;
+    color: blue;
+}
+
+.card {
+    margin-bottom: 40px;
+}
